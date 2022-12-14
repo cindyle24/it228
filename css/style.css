@@ -1,0 +1,26 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    color: #000000;
+    background-color: #ffffff;
+  }
+
+  /* footer section */
+  .footer_section {
+    background-color: #91867c;
+  }
+
+
+
+  .footer_section p {
+    border-top: 1px solid #91867c;
+    color: #ffffff;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 0;
+    width: 50%;
+  }
+  
+  .footer_section a {
+    color: #ffffff;
+  }
+  
